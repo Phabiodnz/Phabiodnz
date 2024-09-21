@@ -4,10 +4,10 @@ _" - you have a heart of gold. don't let them take it from you"_
   <img align="center" width="700px" alt="anime-gif" src="https://i.pinimg.com/originals/4b/c7/39/4bc73947eac73aab60c381887072216e.gif">
 </div>
 <br><a href="https://www.linkedin.com/in/phabiodnz">
-  <img align="center" alt="anime-gif" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img align="center" alt="linkedin-link" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/phabiodnz" style="inline">
-  <img align="center" alt="anime-gif" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+<a href="http://discordapp.com/users/224005840720494592" style="inline">
+  <img align="center" alt="discord-link" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a><br>
 __________________________________________________________________________________________________________
 
@@ -20,11 +20,11 @@ ________________________________________________________________________________
 
 <div>
     <h4>Known Technologies</h4>
-    <img align="center" alt="react-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
-    <img align="center" alt="react-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
-    <img align="center" alt="react-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="react-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />         
-  <img align="center" alt="react-icon" height="30" width="40" align="center" alt="react-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img align="center" alt="html5-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+    <img align="center" alt="css3-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+    <img align="center" alt="js-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="sql-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />         
+  <img align="center" alt="java-icon" height="30" width="40" align="center" alt="react-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </div>
 
 <div style='inline-block'>
