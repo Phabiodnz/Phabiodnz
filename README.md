@@ -12,10 +12,10 @@ _" - you have a heart of gold. don't let them take it from you"_
 __________________________________________________________________________________________________________
 
 <br><a href="https://github.com/phabiodnz">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Phabiodnz&show_icons=true&theme=dracula" />
+  <img height=200 width="100" align="center" src="https://github-readme-stats.vercel.app/api?username=Phabiodnz&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/phabiodnz">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Phabiodnz&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+  <img height=200 width="100" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Phabiodnz&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 
 <div>
