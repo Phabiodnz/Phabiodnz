@@ -1,8 +1,5 @@
 ## Hi! I'm Phabio a FullStack Developer
 _" - you have a heart of gold. don't let them take it from you"_
-<div>
-  <img align="center" width="700px" alt="anime-gif" src="https://i.pinimg.com/originals/4b/c7/39/4bc73947eac73aab60c381887072216e.gif">
-</div>
 <br><a href="https://www.linkedin.com/in/phabiodnz">
   <img align="center" alt="linkedin-link" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
