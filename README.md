@@ -2,7 +2,7 @@
 _" - you have a heart of gold. don't let them take it from you"_
 <br><a href="https://www.linkedin.com/in/phabiodnz">
   <img align="center" alt="linkedin-link" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+</a><br>
 <a href="http://discordapp.com/users/224005840720494592" style="inline">
   <img align="center" alt="discord-link" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a><br>
