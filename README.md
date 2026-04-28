@@ -32,8 +32,8 @@ Destaco minha atuação em **automação industrial** e **programação parametr
 ### ◆ GitHub Stats
 
 <p align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=phabiodnz&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=007acc&icon_color=007acc" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phabiodnz&layout=compact&langs_count=7&theme=transparent&hide_border=true&title_color=007acc" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=phabiodnz&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=false&title_color=007acc&icon_color=007acc" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phabiodnz&layout=compact&langs_count=7&theme=transparent&hide_border=false&title_color=007acc" />
 </p>
 
 ---
