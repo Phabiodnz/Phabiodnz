@@ -1,29 +1,23 @@
-## Hi! I'm Phabio a FullStack Developer
-_" - you have a heart of gold. don't let them take it from you"_
-<br><a href="https://www.linkedin.com/in/phabiodnz">
-  <img align="center" alt="linkedin-link" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-__________________________________________________________________________________________________________
+<h1 align="center">Phabio Diniz Rezende</h1>
 
-<br><a href="https://github.com/phabiodnz">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Phabiodnz&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/phabiodnz">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Phabiodnz&layout=compact&langs_count=8&card_width=320&theme=dracula" />
-</a>
+<p align="center">
+  <em>"you have a heart of gold. don't let them take it from you"</em>
+</p>
 
-<div>
-    <h4>Known Technologies</h4>
-    <img align="center" alt="html5-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
-    <img align="center" alt="css3-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
-    <img align="center" alt="js-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="sql-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />         
-  <img align="center" alt="java-icon" height="30" width="40" align="center" alt="react-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-</div>
+<p align="center">
+  <strong>Desenvolvedor Fullstack & Designer UX</strong><br>
+  <em>Graduado em ADS | Graduando em Engenharia da Computação (2030)</em>
+</p>
 
-<div style='inline-block'>
-  <h4>Currently Learning</h4>
-  <img align="center" alt="react-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="python-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="nodejs-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-</div>
+---
+
+### ◆ Perfil Profissional
+
+> Atuo na intersecção entre código eficiente e design centrado no usuário. Com formação sólida em análise de sistemas e visão sistêmica da engenharia, meu foco é transformar problemas complexos em soluções digitais fluidas, escaláveis e com propósito.
+
+Possuo experiência prática com tecnologias modernas e prototipação de alta fidelidade para clientes reais. Destaco um diferencial técnico: a união da lógica de software com a eficiência operacional através de **automação industrial** e **programação parametrizada (G-code)**.
+
+### ◆ Expertise Técnico
+
+```text
+|| Fullstack Development  || UX & Interaction Design  || Arquitetura de Sistemas
