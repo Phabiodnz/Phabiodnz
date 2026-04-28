@@ -11,7 +11,7 @@
 
 ---
 
-### ◆ Perfil Profissional
+### ◆ Sobre
 
 Possuo um perfil multidisciplinar focado em transformar problemas complexos em soluções digitais eficientes e centradas no usuário. Unindo a agilidade do desenvolvimento moderno à visão sistêmica da engenharia, possuo experiência prática com tecnologias modernas e prototipagem de alta fidelidade para clientes reais. 
 
